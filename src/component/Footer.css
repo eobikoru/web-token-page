@@ -1,0 +1,36 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+
+}
+.footer-content{
+    height: 204px;
+    background-color: rgb(52, 52, 52);
+    display: flex;
+    flex-direction: column;
+    
+}
+.txt-btn{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.footer-text{
+    color: white;
+}
+.footer-btn button{
+    margin-top: 20px;
+    padding: 15px;
+   width: 234px;
+   border-radius: 12px;
+   border: white 5px solid;
+   color: white;
+   background-color: transparent;
+   font-size: 19px;
+}
+.footer-btn button:hover{
+    background-color: white;
+    color: rgba(0, 128, 255, 0.739);
+}
