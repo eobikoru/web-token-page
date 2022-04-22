@@ -1,5 +1,6 @@
 import React from 'react'
 import Footer from './Footer'
+import FooterAll from './FooterAll'
 import Home from './Home'
 import Line from './Line'
 import Section from './Section'
@@ -13,6 +14,7 @@ function Index() {
         <Sectiontwo/>
         <Line/>
         <Footer/>
+         <FooterAll/>
     </div>
   )
 }

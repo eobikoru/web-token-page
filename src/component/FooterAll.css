@@ -1,0 +1,23 @@
+.foot{
+   display: flex;
+align-items: center;
+   justify-content: space-between;
+   height: 94px;
+   background-color: white;
+  border-top: 1px solid gray;
+}
+
+.io{
+    margin-left: 12px;
+}
+.icons{
+    display: flex;
+    margin-left: 305px;
+}
+.copyright{
+    display: flex;
+    
+}
+.copyright{
+    margin-right: 244px;
+}

@@ -1,0 +1,60 @@
+.sec_img img{
+    width: 109px;
+    height: 65px;
+}
+.sec_img{
+display: flex;
+justify-content: center;
+margin-top: 12px;
+margin-bottom: 11px;
+}
+.sec_note .spon{
+  font-size: 22px;
+  font-family: bold;
+  color: black;
+}
+.sec_note{
+    width: 34%;
+    margin: auto;
+    text-decoration: none;
+   
+}
+.sec_note p{
+    font-size: 18px;
+
+}
+.sec_btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 22px;
+    margin-bottom: 22px;
+}
+.sec-button{
+    margin: auto;
+}
+.sec-button button{
+    width: 356px;
+    color: black;
+    border: none;
+    border: 2px solid rgba(0, 128, 255, 0.739);
+    border-radius: 7px;
+    padding: 16px;
+    margin-top: 15px;
+    cursor: pointer;
+    background-color: white;
+    /* background-color: rgba(0, 128, 255, 0.739); */
+}
+.sec_last_btn button{
+    width: 356px;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border: 2px solid rgba(0, 128, 255, 0.739);
+    border-radius: 7px;
+    padding: 16px;
+    margin-top: 15px;
+    background-color: rgba(0, 128, 255, 0.739);
+}
+
+
+
