@@ -24,8 +24,10 @@
 
 .bitcoin_contens h3{
     margin: 24px;
+   
 }
 .holder{
+    
     height: 59px;
     display: flex;
     border-radius: 23px;
@@ -44,8 +46,8 @@
 }
 .bitdata_map{
     height: 527px;
-    margin:23px ;
-    margin-right: 23px;
+    margin:0px 33px 0px  33px;
+    
     border-radius: 21px;
     
     overflow: scroll;

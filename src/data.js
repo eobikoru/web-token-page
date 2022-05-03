@@ -252,28 +252,28 @@ export default [
         alt:"PEAKDEFI Wallet",
         image:"image/PEAKDEFIWallet.jpeg" 
     },
-    {
-        id: 21,
-        name: "",
-        alt:"",
-        image:"" 
-    },
-    {
-        id: 21,
-        name: "",
-        alt:"",
-        image:"" 
-    },
-    {
-        id: 21,
-        name: "",
-        alt:"",
-        image:"" 
-    },
-    {
-        id: 21,
-        name: "",
-        alt:"",
-        image:"" 
-    },
+    // {
+    //     id: 21,
+    //     name: "",
+    //     alt:"",
+    //     image:"" 
+    // },
+    // {
+    //     id: 21,
+    //     name: "",
+    //     alt:"",
+    //     image:"" 
+    // },
+    // {
+    //     id: 21,
+    //     name: "",
+    //     alt:"",
+    //     image:"" 
+    // },
+    // {
+    //     id: 21,
+    //     name: "",
+    //     alt:"",
+    //     image:"" 
+    // },
 ]
