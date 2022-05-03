@@ -1,6 +1,7 @@
 .sec_img img{
     width: 109px;
     height: 65px;
+    margin-top: 53px;
 }
 .sec_img{
 display: flex;
@@ -8,6 +9,7 @@ justify-content: center;
 margin-top: 12px;
 margin-bottom: 11px;
 }
+
 .sec_note .spon{
   font-size: 22px;
   font-family: bold;
@@ -27,7 +29,7 @@ margin-bottom: 11px;
     display: flex;
     justify-content: center;
     margin-top: 22px;
-    margin-bottom: 22px;
+    margin-bottom: 72px;
 }
 .sec-button{
     margin: auto;

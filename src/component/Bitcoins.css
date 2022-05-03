@@ -1,13 +1,18 @@
 .bitcoin_contens{
     height: 597px;
-    margin-bottom: 89px;
+    margin-top: 89px;
     border: 2px solid black;
     width: 60%;
     border-radius: 23px;
     margin: auto;
     overflow: scroll;
     background-color: white;
+    margin-bottom: 34px;
     
+}
+.yu{
+    padding: 35px;
+    color: white;
 }
 .line{
     height: 12px;
@@ -17,7 +22,47 @@
 }
 .bit-coin{
    height: 100vh;
-    background-color: rgba(0, 128, 255, 0.739);
+    background-color: rgb(0, 121, 242);
+}
+.modaldisplay{
+    height: 345px;
+    width: 30%;
+    background-color: white;
+    margin: auto;
+    margin-top: 245px;
+    border-radius: 24px;
+}
+.lolp img{
+    height: 27px;
+    width: 29px;
+    margin-left: 19px;
+    border-radius: 50%;
+}
+.modalname{
+    display: flex;
+    align-items: center;
+    margin:21px ;
+}
+.initializing_middle{
+    margin: 45px;
+    padding: 24px;
+    border: 2px solid rgba(177, 232, 177, 0.973);
+    color: rgba(177, 232, 177, 0.973);
+    display: flex;
+    justify-content: space-around;
+    border-radius: 15px;
+    align-items: center;
+}
+.first-modaltop{
+    display: flex;
+    justify-content: space-between;
+    height: 74px;
+    align-items: center;
+    background-color: lightgray;
+ 
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    text-align: center;
 }
 
 
@@ -47,7 +92,7 @@
 .bitdata_map{
     height: 527px;
     margin:0px 33px 0px  33px;
-    
+  
     border-radius: 21px;
     
     overflow: scroll;
